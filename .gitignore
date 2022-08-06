@@ -7,8 +7,9 @@
 /[Oo]bj/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/PathFinding/Library/Artifacts/
-PathFinding/Library/Artifacts/
+/PathFinding/Library/
+/PathFinding/Logs/
+/PathFinding/Temp/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
